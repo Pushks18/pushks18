@@ -19,17 +19,8 @@ I am currently pursuing a Master’s in Computer Science at USC. My work centers
 ## Work
 
 At USC, I built a multi-sensor SLAM pipeline that processes real-world data at 20–25 FPS. By focusing on calibration, optimization, and robust data handling, I reduced trajectory error from approximately 95 meters to under 0.8 meters ATE. I also improved system stability by addressing sensor noise and failure cases, reducing tracking dropouts by around 30%.
+
 At Technoriya, I developed and optimized backend APIs handling over 1,000 concurrent requests with approximately 450 ms latency. I designed scalable data pipelines to support analytics and machine learning workflows, and improved deployment reliability by implementing CI/CD pipelines and streamlining development processes.
-
-### Software Engineer Intern – Real-Time AI Systems, USC  
-- Built a multi-sensor SLAM pipeline running at 20–25 FPS  
-- Reduced trajectory error from ~95m to <0.8m ATE through calibration and optimization  
-- Improved system robustness by reducing tracking failures by ~30%  
-
-### Software Engineer Intern – Backend & APIs, Technoriya  
-- Built APIs handling 1,000+ concurrent requests (~450 ms latency)  
-- Designed data pipelines for analytics and ML workflows  
-- Improved deployment reliability using CI/CD pipelines  
 
 ## Projects
 
