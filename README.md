@@ -1,6 +1,6 @@
 # Pushkaraj Baradkar
 
-MS Computer Science @ University of Southern California  
+MS Computer Science at University of Southern California  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pushks18&color=blue)
 
