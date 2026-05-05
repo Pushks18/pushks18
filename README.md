@@ -6,7 +6,7 @@ MS Computer Science at University of Southern California
 
 Los Angeles, CA  
 pushkarajbaradkar1@gmail.com  
-https://pushkaraj-baradkar.vercel.app  
+https://pushkaraj.dev  
 https://linkedin.com/in/pushks18  
 https://github.com/pushks18  
 
